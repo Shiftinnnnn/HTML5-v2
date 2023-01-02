@@ -1,0 +1,41 @@
+table {
+  width: 50%;
+  border: 1px solid rgb(0, 0, 0);
+  margin-left: center;
+  margin-right: center;
+  margin: auto;
+}
+
+form {
+  /* background-color: beige; */
+  margin: auto;
+  width: 50%;
+}
+
+
+
+th, td {
+  padding: 20px;
+}
+
+body { 
+  background: url("mapamundi.jpg") 
+}
+
+table {
+  background-color: #414141;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #fdffd1;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f6f6f6;
+}
+
+
+h1 {
+  text-align: center;
+  size: 5;
+}
