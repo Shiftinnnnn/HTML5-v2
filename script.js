@@ -40,6 +40,7 @@ class Busqueda{
             fila.insertCell(1).innerHTML = pais.Continente;
         });
     }
+    
         
     buscar_pais(){
         let busqueda = document.getElementById('valor').value;
